@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["/","/downloads/all","/downloads/paper","/downloads/velocity","/downloads/waterfall","/javadocs","/software/folia","/software/paper","/software/velocity","/software/waterfall"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();
